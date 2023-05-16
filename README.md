@@ -1,3 +1,9 @@
+הוספנו חדר נוסף, עם מסדרון ומדרגות אליו מהקומה הראשית
+
+עשינו שלשחקן יהיה אפשרות לקפוץ לזחול ולרוץ
+
+
+
 # Unity week 6: Three-dimensional scene-building and navigation
 
 A project with step-by-step scenes illustrating how to construct a 3D game, including:
